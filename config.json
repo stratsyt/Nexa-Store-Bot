@@ -1,0 +1,22 @@
+{
+    "token": "",
+    "adminRole": "1434214073699926129",
+    "restockRole": "1434214522859683910",
+    "storeLink": "https://cosmicalts.mysellauth.com/product/cosmic-alts-credits",
+    "nowpayments": {
+        "apiKey": ""
+    },
+    "customerRole": "1434214480618717205",
+    "noCooldownRole": "1434218781869342851",
+    "restockChannel": "1434215074465058990",
+    "refundChannel": "1434219068210020564",
+    "purchaseLogsChannel": "1434218021202825227",
+    "balanceLogsChannel": "1434218050151776297",
+    "transactionLogsChannel": "1434218086868975800",
+    "vouchChannel": "your_vouch_channel_id_here",
+    "precheck": {
+        "enabled": true,
+        "apiUrl": "http://localhost:3001/api",
+        "threads": 10
+    }
+}
